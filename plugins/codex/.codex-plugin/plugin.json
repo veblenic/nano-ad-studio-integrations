@@ -1,0 +1,27 @@
+{
+  "name": "nano-ad-studio-assistant",
+  "version": "2.0.0",
+  "description": "Use Nano Ad Studio tools to estimate, plan, review, and render ads with your approval.",
+  "author": {
+    "name": "Vulpex LLC",
+    "url": "https://nanoadstudio.com"
+  },
+  "homepage": "https://nanoadstudio.com/settings/developer",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Nano Ad Studio",
+    "shortDescription": "Create ads with Nano Business",
+    "longDescription": "Use your Nano account to inspect brands and offerings, estimate Credits, plan ads, review creative directions, render approved plans, and retrieve completed outputs. A Nano Business plan is required. Sign in once to connect Nano tools. Planning and rendering spend Credits and require your approval.",
+    "developerName": "Vulpex LLC",
+    "category": "Design",
+    "capabilities": ["Read catalog", "Estimate Credits", "Plan ads", "Render ads", "Retrieve outputs"],
+    "websiteURL": "https://nanoadstudio.com",
+    "supportURL": "https://nanoadstudio.com/support",
+    "privacyPolicyURL": "https://nanoadstudio.com/legal/privacy",
+    "termsOfServiceURL": "https://nanoadstudio.com/legal/terms",
+    "defaultPrompt": ["Check my Nano Credits and list my brands.", "Estimate a photo ad for my brand without spending Credits."],
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/icon.svg"
+  }
+}

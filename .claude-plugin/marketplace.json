@@ -1,0 +1,12 @@
+{
+  "name": "nano-ad-studio",
+  "description": "Nano Ad Studio tools and workflow for Claude Code.",
+  "owner": { "name": "Vulpex LLC", "email": "support@nanoadstudio.com" },
+  "plugins": [
+    {
+      "name": "nano-ad-studio-assistant",
+      "source": "./plugins/claude",
+      "description": "Use Nano Ad Studio tools and its ad workflow in Claude Code."
+    }
+  ]
+}

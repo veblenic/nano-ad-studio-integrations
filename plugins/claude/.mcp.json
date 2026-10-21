@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nano_ad_studio": {
+      "type": "http",
+      "url": "https://api.nanoadstudio.com/mcp"
+    }
+  }
+}

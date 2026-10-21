@@ -1,0 +1,11 @@
+{
+  "name": "nano-ad-studio-assistant",
+  "version": "2.0.0",
+  "description": "Use Nano Ad Studio tools to estimate, plan, review, and render ads with your approval.",
+  "author": {
+    "name": "Vulpex LLC",
+    "url": "https://nanoadstudio.com"
+  },
+  "homepage": "https://nanoadstudio.com/settings/developer",
+  "keywords": ["advertising", "creative", "mcp"]
+}
